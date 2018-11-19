@@ -1,0 +1,10 @@
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\obj\Debug\FlvFileMerge.csprojAssemblyReference.cache
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\obj\Debug\FlvFileMerge.csproj.CoreCompileInputs.cache
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\bin\Debug\FlvFileMerge.exe.config
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\bin\Debug\FlvFileMerge.exe
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\bin\Debug\FlvFileMerge.pdb
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\obj\Debug\FlvFileMerge.exe
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\obj\Debug\FlvFileMerge.pdb
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\杨传印\Desktop\FlvFileMerge\FlvFileMerge\obj\Debug\FlvFileMerge.csproj.CopyComplete
